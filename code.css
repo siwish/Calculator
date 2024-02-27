@@ -1,8 +1,5 @@
 body{
-    opacity: 0.6;
-    background-size: cover;
-    background-position: center;
-    background:no-repeat url("https://static.vecteezy.com/system/resources/previews/001/902/302/large_2x/blue-space-particles-science-fiction-3d-illustration-background-wallpaper-design-artwork-free-photo.jpg");
+    background-color: cyan;
 }
 .calculator {
     width: 390px;
